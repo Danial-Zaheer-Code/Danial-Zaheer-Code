@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danial Zaheer
-- 👀 I’m interested in Software Develppment, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Object Oriented Programming in python and Data Structures in C++ 
+- 👀 I’m interested in Software Develppment, Backend Development
+- 🌱 I’m currently learning .NET and Blazor 
 - 💞️ I’m looking to collaborate on any upcoming international hackathon
 - 📫 Reach me through my linkdin profile
 
